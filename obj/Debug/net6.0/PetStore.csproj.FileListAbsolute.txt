@@ -1,0 +1,15 @@
+C:\Users\frisc\source\repos\PetStore\bin\Debug\net6.0\PetStore.exe
+C:\Users\frisc\source\repos\PetStore\bin\Debug\net6.0\PetStore.deps.json
+C:\Users\frisc\source\repos\PetStore\bin\Debug\net6.0\PetStore.runtimeconfig.json
+C:\Users\frisc\source\repos\PetStore\bin\Debug\net6.0\PetStore.dll
+C:\Users\frisc\source\repos\PetStore\bin\Debug\net6.0\PetStore.pdb
+C:\Users\frisc\source\repos\PetStore\obj\Debug\net6.0\PetStore.csproj.AssemblyReference.cache
+C:\Users\frisc\source\repos\PetStore\obj\Debug\net6.0\PetStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frisc\source\repos\PetStore\obj\Debug\net6.0\PetStore.AssemblyInfoInputs.cache
+C:\Users\frisc\source\repos\PetStore\obj\Debug\net6.0\PetStore.AssemblyInfo.cs
+C:\Users\frisc\source\repos\PetStore\obj\Debug\net6.0\PetStore.csproj.CoreCompileInputs.cache
+C:\Users\frisc\source\repos\PetStore\obj\Debug\net6.0\PetStore.dll
+C:\Users\frisc\source\repos\PetStore\obj\Debug\net6.0\refint\PetStore.dll
+C:\Users\frisc\source\repos\PetStore\obj\Debug\net6.0\PetStore.pdb
+C:\Users\frisc\source\repos\PetStore\obj\Debug\net6.0\PetStore.genruntimeconfig.cache
+C:\Users\frisc\source\repos\PetStore\obj\Debug\net6.0\ref\PetStore.dll
